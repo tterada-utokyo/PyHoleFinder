@@ -17,7 +17,11 @@ This program has following features:
 This program was developed and tested on a Windows-10 PC with Anaconda 3.18.9. See manual.pdf for details.
 
 ## Author
-This program is written by Tohru Terada of The University of Tokyo. The author is grateful for valuable inputs by Profs. Masahide Kikkawa and Haruaki Yanagisawa of The University of Tokyo.
+This program is written by Tohru Terada of The University of Tokyo.
+
+## Acknowledgements
+The author is grateful for valuable inputs by Profs. Masahide Kikkawa and Haruaki Yanagisawa of The University of Tokyo.
+This program was developed with support by Platform Project for Supporting Drug Discovery and Life Science Research (Basis for Supporting Innovative Drug Discovery and Life Science Research (BINDS)) from AMED under Grant Number JP20am0101107.
 
 ## License
 The source code is distributed under the MIT license. See LICENSE for details.
