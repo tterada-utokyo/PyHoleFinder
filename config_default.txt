@@ -1,0 +1,22 @@
+xsize = 800
+ysize = 600
+fit_mode = width
+MRC_histogram_bins = 2000
+MRC_dark_cut = 0.005
+MRC_bright_cut = 0.005
+mask_threshold = 10
+mask_kernel_size = 10
+mask_iterations = 5
+hole_radius = 19
+hole_padding = 6
+line_width = 2
+template_padding = 6
+TM_threshold = 0.4
+cluster_threshold = 100
+gsize = 3
+sort = 0
+circle_color = 255 0 0
+group_color = 255 0 0
+template_color = 0 0 255
+navi_color = 3
+
