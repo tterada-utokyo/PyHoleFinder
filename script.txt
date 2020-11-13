@@ -9,6 +9,6 @@ navfile = $reportedValue1$reportedValue2
 navdir = $reportedValue3
 SetDirectory $navdir
 
-RunInShell C:\Users\tterada\Anaconda3\python.exe C:\Users\tterada\Desktop\cryoEM\PyHoleFinder\PyholeFinder.py -conf config.txt -nav $navfile -out output.nav
+RunInShell C:\Users\tterada\anaconda3\Scripts\activate.bat && python C:\Users\tterada\Desktop\cryoEM\PyHoleFinder\PyHoleFinder.py -conf config.txt -nav $navfile -out output.nav
 
 MergeNavFile output.nav
